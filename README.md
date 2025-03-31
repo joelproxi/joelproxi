@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **an Intelligent travel system App**
 
-- 🌱 I’m currently learning **DSA and reinformecemnt learning**
+- 🌱 I’m currently learning **DSA and reinforcement learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/joelproxi](https://github.com/joelproxi)
 
