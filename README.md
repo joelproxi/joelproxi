@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joel Edmond NGUEMETA</h1>
-<h3 align="center">A passionate full-stack developer from Cameroon</h3>
+<h3 align="center">A passionate Software Engineer from Cameroon</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joelproxi&label=Profile%20views&color=0e75b6&style=flat" alt="joelproxi" /> </p>
 
@@ -7,19 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/joelproxi" target="blank"><img src="https://img.shields.io/twitter/follow/joelproxi?logo=twitter&style=for-the-badge" alt="joelproxi" /></a> </p>
 
-- 🔭 I’m currently working on **CloverCm**
+- 🔭 I’m currently working on **an Intelligent travel system App**
 
-- 🌱 I’m currently learning **Spring Boot, FastAPI, Microserices**
-
-- 👯 I’m looking to collaborate on **AIR M1**
-
-- 🤝 I’m looking for help with **Silvain TCHOUBOU**
+- 🌱 I’m currently learning **DSA and reinformecemnt learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/joelproxi](https://github.com/joelproxi)
 
-- 💬 Ask me about **ReactJS, NextJS, Django, Django Rest**
+- 💬 Ask me about **System design and musch more**
 
-- 📫 How to reach me **joeledmond95@gmail.com**
+- 📫 How to reach me **proxidev02@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
