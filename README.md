@@ -21,9 +21,9 @@ I'm an **AI Platform Engineer** and **Distributed Systems Expert** focused on bu
 - 🤖 Designing **AI platforms** and **distributed systems** for production ML workloads
 - ☸️ Architecting **multi-cluster Kubernetes** environments for training & inference at scale
 - 🛠️ Building robust **MLOps pipelines** — experiment tracking, model registry, CI/CD for ML
-- 🔐 Backend craftsman — Django/DRF APIs with RBAC/ABAC and multi-tenant isolation
-- 📍 Based in the **United States**
-- 💬 Ask me about: `AI Platforms`, `Distributed Systems`, `Kubernetes`, `MLflow`, `MLOps`, `Django`
+- 🔐 Backend craftsman — Django/DRF, Spring Boot APIs with RBAC/ABAC and multi-tenant isolation
+- 📍 Based in the **Cameroon**
+- 💬 Ask me about: `AI Platforms`, `Distributed Systems`, `System Design`, `MLflow`, `MLOps`, `Django`, `Spring boot`
 
 ---
 
